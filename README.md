@@ -17,3 +17,4 @@ Data Modeling
 DAX
 Data Visualization
 Interactive Dashboard Design
+<p align="center"> <img src=" alt="Super Sales Store Dashboard" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi"> <img src="https://img.shields.io/badge/Project-Data%20Analytics-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"> </p>
