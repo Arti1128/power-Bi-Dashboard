@@ -17,4 +17,43 @@ Data Modeling
 DAX
 Data Visualization
 Interactive Dashboard Design
-<p align="center"> <img src=" alt="Super Sales Store Dashboard" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi"> <img src="https://img.shields.io/badge/Project-Data%20Analytics-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"> </p>
+
+# Objectives
+Analyze overall sales performance
+Track profit and order metrics
+Monitor monthly sales and profit trends
+Compare customer segments
+Evaluate shipping methods
+Analyze payment preferences
+Identify top-performing product categories
+Build an interactive dashboard for business users
+
+# Key Insights
+
+This dashboard helps answer important business questions, such as:
+
+Which customer segment generates the highest sales?
+Which shipping mode is used most frequently?
+Which product sub-category performs the best?
+How do sales and profits change over time?
+Which payment methods are preferred by customers?
+How does each region contribute to overall sales?
+
+# powerbi
+# dashboard
+# business-intelligence
+# data-analytics
+# data-analysis
+# power-query
+# dax
+# excel
+# data-visualization
+# business-dashboard
+# sales-dashboard
+# analytics
+# portfolio-project
+# microsoft-power-bi
+
+
+<p align="center"> <img width="944" height="533" alt="1st project" src="https://github.com/user-attachments/assets/f88cd6dd-aac5-4348-b0dc-6247c7dce405" />
+"<p align="center"> <img src="Dashboard.png" alt="Super Sales Store Dashboard" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi"> <img src="https://img.shields.io/badge/Project-Data%20Analytics-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"> </p> 
