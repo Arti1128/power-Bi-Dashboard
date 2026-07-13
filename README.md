@@ -61,4 +61,4 @@ How does each region contribute to overall sales?
 
 # Feedback
 I'd love to hear your feedback! Feel free to connect, share your thoughts, or suggest improvements.
-# PowerBI #DataAnalytics #BusinessIntelligence #Dashboard #DataVisualization #DAX #PowerQuery #Excel #SQL #DataAnalyst #Analytics #PortfolioProject #OpenToWork #LearningInPublic
+# PowerBI #DataAnalytics #BusinessIntelligence #Dashboard #DataVisualization #DAX #PowerQuery #Excel #SQL #DataAnalyst #Analytics #PortfolioProject
